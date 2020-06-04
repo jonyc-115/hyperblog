@@ -45,3 +45,10 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
 }
+#footer
+{
+    margin: 0;
+    font-size: 14px;
+    background-color: grey;
+    text-align: center;
+}
